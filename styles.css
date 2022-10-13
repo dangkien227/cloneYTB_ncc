@@ -132,6 +132,7 @@ hr {
     flex-wrap: wrap;
     padding-top: 15px;
     padding-left: 15px;
+    margin-top: 70px;
 }
 
 .single_video {
@@ -219,6 +220,9 @@ h1{
     padding: .8rem .8rem .8rem 1rem;
     border-top: 1px solid #999;
     border-bottom: 1px solid #999;
+    position: fixed;
+    z-index: 10;
+    background-color: #fff;
 }
 
 .category-section {
