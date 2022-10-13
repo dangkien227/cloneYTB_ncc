@@ -135,6 +135,15 @@ hr {
     margin-top: 70px;
 }
 
+.videos_container1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 15px;
+    padding-left: 15px;
+    /* margin-top: 70px; */
+}
+
 .single_video {
     width: 304px;
     margin-left: 5px;
